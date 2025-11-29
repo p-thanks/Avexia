@@ -28,17 +28,7 @@
 
 <div align="center">
 
-
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'primaryColor': '#00000000',
-    'lineColor': '#ffffff',
-    'textColor': '#ffffff'
-  }
-}}%%
-
 mindmap
   root((Avexia))
     User Experience
@@ -58,7 +48,6 @@ mindmap
       🔒 Secure
       📱 Responsive
       🌐 SEO Optimized
-
 ```
 
 </div>
@@ -615,7 +604,10 @@ See `LICENSE` file for more information.
 
 ### Dev Jariwala
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p-thanks)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevJariwala5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjariwala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjariwala.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@avexia.com)
 
 </div>
 
