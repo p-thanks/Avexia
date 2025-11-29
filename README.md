@@ -28,7 +28,17 @@
 
 <div align="center">
 
+
 ```mermaid
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'primaryColor': '#00000000',
+    'lineColor': '#ffffff',
+    'textColor': '#ffffff'
+  }
+}}%%
+
 mindmap
   root((Avexia))
     User Experience
@@ -48,6 +58,7 @@ mindmap
       🔒 Secure
       📱 Responsive
       🌐 SEO Optimized
+
 ```
 
 </div>
