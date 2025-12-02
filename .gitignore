@@ -18,4 +18,9 @@ npm-debug.log*
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.db.env 
+*.env 
+**/.env 
+Backend/.env 
+Frontend/.env 
+Admin/.env 
